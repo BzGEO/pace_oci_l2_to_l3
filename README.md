@@ -13,6 +13,8 @@ To be able to execute the steps of this tutorial, you will need to install [Dock
 
 ## Workflow
 
+*Slides of the walk-through of these steps are available in [GitHub](https://github.com/BzGEO/pace_oci_l2_to_l3/blob/main/nasa_pace_oci_processing_seadas_2025-07-16.pdf) or as [Google Slides](https://bit.ly/pace_oci_seadas).*
+
 1. Install Docker if you don't already have it installed: https://www.docker.com/products/docker-desktop/.
 2. Install NASA SeaDAS if you don't already have it installed: https://seadas.gsfc.nasa.gov/downloads/.
 3. Use the instructions provided by NASA to properly configure the SeaDAS dockerized container: https://seadas.gsfc.nasa.gov/client_server/.
