@@ -1,6 +1,6 @@
 # Tutorial: Processing PACE OCI level-2 surface reflectance data to level-3
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15xxxxxx.svg)](https://doi.org/10.5281/zenodo.15xxxxxx)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15993990.svg)](https://doi.org/10.5281/zenodo.15993990)
 
 Tutorial for using NASA's SeaDAS to convert PACE OCI L2 surface reflectance to L3 data
 
