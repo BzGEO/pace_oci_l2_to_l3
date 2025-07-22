@@ -36,7 +36,10 @@ To be able to execute the steps of this tutorial, you will need to install [Dock
 14. After that processing, the data can be exported to GeoTIF, per *File -> Export -> GeoTIFF / BigTIFF.*
 
 ## Notes
-1. There's an alternative way of generating the GeoTIF products using a Python notebook developed by Skye Caplan (NASA / SSAI). See her walk-through video during the 2nd PACE Land data Users' Group meeting: https://github.com/BzGEO/pace_oci_l2_to_l3.
+1. There's an alternative way of generating the GeoTIF products using a Python notebook developed by Skye Caplan (NASA / SSAI). See her walk-through video during the 2nd PACE Land data Users' Group meeting: https://youtu.be/hOu8rPd_x6I?t=963.
+
+![]()
+
 2. If you would like to *skip* processing the PACE OCI data on your desktop system and just work with the data in the cloud, check out the PACE OCI toolkit for [Google Earth Engine](https://code.earthengine.google.com/) (GEE): https://github.com/BzGEO/pace_oci_toolkit.
 
 ## Acknowledgements
