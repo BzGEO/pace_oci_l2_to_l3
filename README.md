@@ -38,7 +38,7 @@ To be able to execute the steps of this tutorial, you will need to install [Dock
 ## Notes
 1. There's an alternative way of generating the GeoTIF products using a Python notebook developed by Skye Caplan (NASA / SSAI). See her walk-through video during the 2nd PACE Land data Users' Group meeting: https://youtu.be/hOu8rPd_x6I?t=963.
 
-![]()
+![](https://github.com/BzGEO/pace_oci_l2_to_l3/blob/main/_graphics/skye_caplan_notebook_example_2025-07-01.png)
 
 2. If you would like to *skip* processing the PACE OCI data on your desktop system and just work with the data in the cloud, check out the PACE OCI toolkit for [Google Earth Engine](https://code.earthengine.google.com/) (GEE): https://github.com/BzGEO/pace_oci_toolkit.
 
