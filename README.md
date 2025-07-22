@@ -13,7 +13,7 @@ To be able to execute the steps of this tutorial, you will need to install [Dock
 
 ## Workflow
 
-*Slides of the walk-through of these steps are available in [GitHub](https://github.com/BzGEO/pace_oci_l2_to_l3/blob/main/nasa_pace_oci_processing_seadas_2025-07-16.pdf) or as [Google Slides](https://bit.ly/pace_oci_seadas).*
+*Slides of the walk-through of these steps are available in [GitHub](https://github.com/BzGEO/pace_oci_l2_to_l3/blob/main/nasa_pace_oci_processing_seadas_2025-07-21.pdf) or as [Google Slides](https://bit.ly/pace_oci_seadas).*
 
 ![](https://github.com/BzGEO/pace_oci_l2_to_l3/blob/main/_graphics/pace_oci_seadas_export.png)
 
